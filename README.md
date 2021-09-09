@@ -90,6 +90,6 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 
 #### Special Credits
-- [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
+- [PRINCE OP SUPPORT](http://github.com/rojserbes): Callsmusic Developer
 - [Prince Bot](http://t.me/PRINCE_MUSIC_WORLD) Channel bot list
 - [Dev](http://t.me/Princepatil96) Prince owner of this bot
