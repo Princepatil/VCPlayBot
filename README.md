@@ -26,7 +26,7 @@ Made with Python3
    - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
-Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@QueenArzoo/VCPlayBot)
+Get PRINCE_OP_MUSIC from here:  [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@QueenArzoo/VCPlayBot)
 
 
 
@@ -91,5 +91,5 @@ If you donlt like to play in linked channel:
 
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
-- [Awesome Bot](http://t.me/LaylaList) Channel bot list
-- [Dev](http://t.me/HEROGAMERS1) Hero owner of this bot
+- [Prince Bot](http://t.me/PRINCE_MUSIC_WORLD) Channel bot list
+- [Dev](http://t.me/Princepatil96) Prince owner of this bot
